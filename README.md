@@ -1,1 +1,1 @@
-# Shop---Responsive-Mailchimp-Email-Template
+# Shop-Responsive-Mailchimp-Email-Template
